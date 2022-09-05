@@ -1,14 +1,24 @@
 # 东方大炮弹角色语音翻译库
 
-## 简介
+## 来源
+- [bilibili视频CC字幕](https://www.bilibili.com/read/cv8373398) 翻译后的文本
+- [seesaawiki](https://seesaawiki.jp/thcb/d/%a5%bb%a5%ea%a5%d5%bd%b8#content_2_1) 文本
+- [解包的语音数据](https://www.bilibili.com/read/cv8373398) 语音
 
-这里包含了从各种渠道来的语音翻译
+## 翻译工具
 
-- bilibili 
-  - CC字幕
-- seesaawiki 
-  - 通过翻译平台得来的翻译结果，包括谷歌、deepL、微软和mymemory
-- 解包的语音数据，[来源](https://www.bilibili.com/read/cv8373398)
+- 谷歌 
+  - mt
+- 微软
+  - mt
+- mymemory
+  - mt
+  - human
+- deepl
+  - mt
+- bilibili
+  - CC subtitle
+
 
 ## 数据库结构
 类型：Sqlite
