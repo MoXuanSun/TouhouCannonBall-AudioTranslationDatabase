@@ -11,6 +11,7 @@
 - 解包的语音数据，[来源](https://www.bilibili.com/read/cv8373398)
 
 ## 数据库结构
+类型：Sqlite
 
 - table_audio_info
   - audio_id
