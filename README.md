@@ -1,4 +1,4 @@
-# 东方大炮弹角色语音翻译库
+# 东方大炮弹角色语音翻译库 -- 未完成
 
 ## 来源
 - [bilibili视频CC字幕](https://www.bilibili.com/read/cv8373398) 翻译后的文本
